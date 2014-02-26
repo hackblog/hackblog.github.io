@@ -1,16 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[HackBlog]]></title>
   <link href="http://hackblog.github.io/atom.xml" rel="self"/>
   <link href="http://hackblog.github.io/"/>
-  <updated>2014-02-26T03:28:07+02:00</updated>
+  <updated>2014-02-26T04:11:17+02:00</updated>
   <id>http://hackblog.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Ais]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Пришло время оживить HfckBlog]]></title>
+    <link href="http://hackblog.github.io/blog/2014/02/26/prishlo-vriemya-ozhivit-hackblog/"/>
+    <updated>2014-02-26T03:52:03+02:00</updated>
+    <id>http://hackblog.github.io/blog/2014/02/26/prishlo-vriemya-ozhivit-hackblog</id>
+    <content type="html"><![CDATA[<p>Я давно хотел заняться этим блогом. Рассказывать людям, о разных хаках, которые мне встречаются в интернете и различном ПО. Но все как-то не доходили руки. Мне с трудом хватало времени на публикацию постов на другом моем блоге, посвященном <a href="http://www.hidigital.ru">новостям о гаджетах</a>.</p>
+
+<p>Но теперь я надеюсь хотя бы раз в месяц писать заметки на <a href="http://www.hackblog.ru">HackBlog</a>. Здесь вы вряд ли найдете новости о взломах и прочей преступной деятельности, которую по недразумению называют <em>хакингом</em>.</p>
+
+<p>В моем понимании это слово означает совсем другое &ndash; энтузиазм, где-то фанатичная любовь к своему делу и желание развиваться и узнавать новое. Это и есть <strong>истиный хакинг</strong>.</p>
+]]></content>
+  </entry>
   
 </feed>
