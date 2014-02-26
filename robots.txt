@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://hackblog.github.io/sitemap.xml 
+Sitemap: http://hackblog.ru/sitemap.xml 
