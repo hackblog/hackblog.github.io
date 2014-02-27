@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: О сайте | Hack Blog]]></title>
+  <title><![CDATA[Категория: О сайте | Hack Blog]]></title>
   <link href="http://hackblog.ru/category/o-saitie/atom.xml" rel="self"/>
   <link href="http://hackblog.ru/"/>
-  <updated>2014-02-27T04:18:38+02:00</updated>
+  <updated>2014-02-27T05:03:17+02:00</updated>
   <id>http://hackblog.ru/</id>
   <author>
     <name><![CDATA[Ais]]></name>
