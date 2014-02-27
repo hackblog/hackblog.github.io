@@ -4,7 +4,7 @@
   <title><![CDATA[Hack Blog]]></title>
   <link href="http://hackblog.ru/atom.xml" rel="self"/>
   <link href="http://hackblog.ru/"/>
-  <updated>2014-02-27T06:34:08+02:00</updated>
+  <updated>2014-02-27T20:07:02+02:00</updated>
   <id>http://hackblog.ru/</id>
   <author>
     <name><![CDATA[Ais]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Пришло время оживить Hack Blog]]></title>
-    <link href="http://hackblog.ru/prishlo-vriemya-ozhivit-hack-blog/"/>
+    <link href="http://hackblog.ru/post/prishlo-vriemya-ozhivit-hack-blog/"/>
     <updated>2014-02-26T03:52:03+02:00</updated>
-    <id>http://hackblog.ru/prishlo-vriemya-ozhivit-hack-blog</id>
+    <id>http://hackblog.ru/post/prishlo-vriemya-ozhivit-hack-blog</id>
     <content type="html"><![CDATA[<p>Я давно хотел заняться этим блогом. Рассказывать людям о разных хаках, которые мне встречаются в интернете и различном ПО. Но все как-то не доходили руки. Мне с трудом хватало времени на публикацию постов на другом моем блоге, посвященном <a href="http://www.hidigital.ru">новостям о гаджетах</a>.</p>
 
 <p>Но теперь я надеюсь хотя бы раз в месяц писать заметки на <a href="http://hackblog.ru">Hack Blog</a>. Здесь вы вряд ли найдете новости о взломах и прочей преступной деятельности, которую по недразумению называют <em>хакингом</em>.</p>
